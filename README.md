@@ -19,7 +19,7 @@ lumbar spine MRI with deep learning.
 | [**nnunet-revisited-acdc**](https://github.com/ShzdiTrnum/nnunet-revisited-acdc) | Reproduction of nnU-Net Revisited (MICCAI 2024) on ACDC: nnU-Net, ResEnc M/L, 5-fold CV, resumable 2-GPU training queue | Training in progress |
 | [**ALS-Fasciculation-BBVI-Detection-Ultrasound**](https://github.com/ShzdiTrnum/ALS-Fasciculation-BBVI-Detection-Ultrasound) | Black-box variational inference + variational EM for ring-wise rotation estimation in ALS ultrasound (VISAPP 2026) | Paper code |
 | [**Fasciculation-Annotator**](https://github.com/ShzdiTrnum/Fasciculation-Annotator) | PySide6/OpenCV desktop tool for frame-accurate annotation of fasciculation events; exports clips + CSV for deep learning | Tool |
-| [**CNN-LSS-Detection**](https://github.com/ShzdiTrnum/CNN-LSS-Detection) | Four-grade lumbar spine stenosis classification from axial MRI (Diagnostics 2023), with a leakage-free evaluation protocol and tests | Paper code, re-evaluation pending |
+| [**CNN-LSS-Detection**](https://github.com/ShzdiTrnum/CNN-LSS-Detection) | Four-grade lumbar spine stenosis classification from axial MRI (Diagnostics 2023), with a leakage-free evaluation protocol and tests | Paper code |
 
 ### ALS fasciculation pipeline
 
